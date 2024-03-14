@@ -17,3 +17,4 @@ def get_products():
     return products
 
 # このコードは、ユーザー入力をそのままSQLクエリに組み込んでいるため、SQLインジェクション攻撃を受けやすい。
+# test1
